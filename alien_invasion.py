@@ -1,4 +1,4 @@
-# CHAPTER 12 PAGE 255/293 OF PDF
+# CHAPTER 12 PAGE 257/295 OF PDF
 import sys
 
 import pygame
