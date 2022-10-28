@@ -1,4 +1,4 @@
-# CHAPTER 12 PAGE 312/274 OF PDF, just did ship_limit
+# CHAPTER 12 PAGE 280/318 OF PDF, just did ship_limit
 import sys
 from time import sleep
 
